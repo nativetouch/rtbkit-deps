@@ -39,4 +39,4 @@
 	url = https://github.com/mikeburkat/curl.git
 [submodule "curlpp"]
 	path = curlpp
-	url = https://github.com/mikeburkat/curlpp.git
+	url = https://github.com/nativetouch/curlpp.git
